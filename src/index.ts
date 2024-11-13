@@ -1,5 +1,3 @@
-const a = 2
-
-console.warn(a)
-
-export default a
+export function sum(a: number, b: number): number {
+  return a + b
+}
