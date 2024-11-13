@@ -21,9 +21,15 @@
         "test": "jest",
         "type": "tsc --noEmit"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": [
+        "plugin",
+        "flow",
+        "plugin-flow",
+        "typescript",
+        "tsx"
+    ],
+    "author": "shaobeichen",
+    "license": "MIT",
     "devDependencies": {
         "@types/jest": "^29.5.14",
         "@types/node": "^22.9.0",
