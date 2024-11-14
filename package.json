@@ -1,7 +1,7 @@
 {
     "name": "oplugin",
-    "version": "1.0.0",
-    "description": "A Plugin Flow.",
+    "version": "0.1.0",
+    "description": "A plugin system allows you to easily enable additional functionality. ",
     "main": "./dist/index.cjs",
     "module": "./dist/index.mjs",
     "types": "./dist/index.d.cts",
@@ -23,12 +23,16 @@
     },
     "keywords": [
         "plugin",
+        "oplugin",
+        "pluggable",
         "flow",
-        "plugin-flow",
+        "widget",
+        "block",
+        "tapable",
         "typescript",
         "tsx"
     ],
-    "author": "shaobeichen",
+    "author": "shaobeichen <shaobeichen@outlook.com>",
     "license": "MIT",
     "devDependencies": {
         "@types/jest": "^29.5.14",
